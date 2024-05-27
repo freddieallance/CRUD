@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\wpfcrud\\usercontrols\\employeepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|solutionrelative:wpfcrud\\usercontrols\\employeepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WpfCrud||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\wpfcrud\\usercontrols\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|solutionrelative:wpfcrud\\usercontrols\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\wpfcrud\\usercontrols\\productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|solutionrelative:wpfcrud\\usercontrols\\productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\wpfcrud\\usercontrols\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|solutionrelative:wpfcrud\\usercontrols\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\wpfcrud\\usercontrols\\employeepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|solutionrelative:wpfcrud\\usercontrols\\employeepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\wpfcrud\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|solutionrelative:wpfcrud\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A567ABA-1EBE-415D-A85A-BEA3F21BF719}|WpfCrud\\WpfCrud.csproj|c:\\users\\freddie allance\\source\\repos\\wpfcrud-master\\wpfcrud\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WpfCrud",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\WpfCrud.csproj",
+              "RelativeDocumentMoniker": "WpfCrud\\WpfCrud.csproj",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\WpfCrud.csproj",
+              "RelativeToolTip": "WpfCrud\\WpfCrud.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-27T07:55:13.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\UserControls\\ProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfCrud\\UserControls\\ProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\UserControls\\ProductPage.xaml.cs",
+              "RelativeToolTip": "WpfCrud\\UserControls\\ProductPage.xaml.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAwwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:45:25.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\UserControls\\ProductPage.xaml",
+              "RelativeDocumentMoniker": "WpfCrud\\UserControls\\ProductPage.xaml",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\UserControls\\ProductPage.xaml",
+              "RelativeToolTip": "WpfCrud\\UserControls\\ProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T07:43:58.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\App.config",
+              "RelativeDocumentMoniker": "WpfCrud\\App.config",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\App.config",
+              "RelativeToolTip": "WpfCrud\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-27T07:41:21.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\UserControls\\HomePage.xaml",
+              "RelativeDocumentMoniker": "WpfCrud\\UserControls\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\UserControls\\HomePage.xaml",
+              "RelativeToolTip": "WpfCrud\\UserControls\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T07:40:41.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControls\\EmployeePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\UserControls\\EmployeePage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfCrud\\UserControls\\EmployeePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\UserControls\\EmployeePage.xaml.cs",
+              "RelativeToolTip": "WpfCrud\\UserControls\\EmployeePage.xaml.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAwwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:40:17.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\UserControls\\EmployeePage.xaml",
+              "RelativeDocumentMoniker": "WpfCrud\\UserControls\\EmployeePage.xaml",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\WPFCrud-master\\WpfCrud\\UserControls\\EmployeePage.xaml",
+              "RelativeToolTip": "WpfCrud\\UserControls\\EmployeePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T07:29:01.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
